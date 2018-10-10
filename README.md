@@ -6,4 +6,4 @@
 
 # Examples
 
-[Demystifying NgRx](https://github.com/brandonroberts/angular-mix-2018/movie-search-app/)
+[Demystifying NgRx](https://github.com/brandonroberts/angular-mix-2018/tree/master/movie-search-app)
